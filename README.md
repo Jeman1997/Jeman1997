@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Jeman Kumar, a self learnt developer.
+## Hi there 👋. I'm Jeman Kumar, a self learnt developer.🧑‍💻
 
 ### My Projects:-- <br>
 [Portfolio with Django](https://github.com/Jeman1997/New_Portfolio)<br>
